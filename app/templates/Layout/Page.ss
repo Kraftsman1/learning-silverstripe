@@ -1,5 +1,5 @@
-<html>
-  <body>
-    <h1>Hello, world</h1>
-  </body>
-</html>
+<% include SideBar %>
+<div class="content-container un<h1>Hello, world</h1>
+		$Form
+		$CommentsForm
+</div>
