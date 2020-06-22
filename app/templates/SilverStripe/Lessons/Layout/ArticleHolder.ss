@@ -19,7 +19,7 @@
       </div> <div class="tag"><i class="fa fa-file-text"></i></div>
      <div class="info-blog">
        <ul class="top-info">
-         <li><i class="fa fa-calendar"></i>$Date.Long</li>
+         <li><i class="fa fa-calendar"></i> $Date.Long</li>
          <li><i class="fa fa-comments-o"></i> 2</li>
          <li><i class="fa fa-tags"></i> Properties, Prices, best deals</li>
        </ul>
