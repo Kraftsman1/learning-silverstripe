@@ -1,5 +1,6 @@
 <?php
 
+namespace SilverStripe\Lessons;
 
 use SilverStripe\Forms\DateField;
 use SilverStripe\Forms\TextareaField;
